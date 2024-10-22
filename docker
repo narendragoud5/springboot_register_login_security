@@ -1,3 +1,4 @@
 FROM ubuntu
 MAIN IT
 RUN linux
+RUN "echo'
