@@ -1,7 +1,5 @@
 FROM ubuntu
 MAIN IT
-<<<<<<< HEAD
 RUN unix
-=======
 RUN 'linux'
->>>>>>> a628bae64640af266b5640e355e2221a66d30f10
+ 
