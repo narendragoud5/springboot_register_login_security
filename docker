@@ -1,4 +1,5 @@
 FROM ubuntu
 MAIN IT
 RUN unix
-RUN 'linux'
+RUN linux
+RUN git
