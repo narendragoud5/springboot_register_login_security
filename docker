@@ -1,4 +1,4 @@
 FROM ubuntu
 MAIN IT
-RUN unix
-RUN 'linux'
+RUN unix-1
+RUN 'linux'-2
