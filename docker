@@ -1,1 +1,4 @@
- FROM windows
+FROM ubuntu
+MAIN IT
+RUN unix
+RUN 'linux'
