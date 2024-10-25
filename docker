@@ -1,3 +1,4 @@
+FROM windows
 FROM ubuntu
 MAIN IT
 RUN echo hi
