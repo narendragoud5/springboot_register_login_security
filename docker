@@ -1,2 +1,4 @@
 FROM ubuntu
 MAIN IT
+RUN AWS
+RUN Devops
