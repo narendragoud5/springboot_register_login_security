@@ -1,2 +1,3 @@
 FROM ubuntu
 MAIN IT
+CMD echo hello-
